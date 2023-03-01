@@ -6,3 +6,5 @@ While I would like to display my coding projects from class that demonstrate my 
 School: mjfuchs@purdue.edu
 
 Personal: firefox928@icloud.com
+
+Subject: "Request to access GitHub Repositories"
